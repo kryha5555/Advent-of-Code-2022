@@ -7,7 +7,7 @@
 | ✔️ [Day 3: Rucksack Reorganization](https://github.com/kryha5555/Advent-of-Code-2022/tree/main/Day%2003 "Day 3: Rucksack Reorganization")   |    ⭐️     |      ⭐️       |
 | ✔️ [Day 4: Camp Cleanup](https://github.com/kryha5555/Advent-of-Code-2022/tree/main/Day%2004 "Day 4: Camp Cleanup")                         |    ⭐️     |      ⭐️       |
 | ✔️ [Day 5: Supply Stacks](https://github.com/kryha5555/Advent-of-Code-2022/tree/main/Day%2005 "Day 5: Supply Stacks")                       |    ⭐️     |      ⭐️       |
-| ❌ Day 6: ...                                                                                                                               |🕕 Waiting  | 🕕 Waiting   |
+| ✔️ [Day 6: Tuning Trouble](https://github.com/kryha5555/Advent-of-Code-2022/tree/main/Day%2006 "Day 6: Tuning Trouble")                     |    ⭐️     |      ⭐️       |
 | ❌ Day 7: ...                                                                                                                               |🕕 Waiting  | 🕕 Waiting   |
 | ❌ Day 8: ...                                                                                                                               |🕕 Waiting  | 🕕 Waiting   |
 | ❌ Day 9: ...                                                                                                                               |🕕 Waiting  | 🕕 Waiting   |
