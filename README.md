@@ -11,7 +11,7 @@
 | ✔️ [Day 7: No Space Left On Device](https://github.com/kryha5555/Advent-of-Code-2022/tree/main/Day%2007 "Day 7: No Space Left On Device")   |    ⭐️     |      ⭐️       |
 | ✔️ [Day 8: Treetop Tree House](https://github.com/kryha5555/Advent-of-Code-2022/tree/main/Day%2008 "Day 8: Treetop Tree House")             |    ⭐️     |      ⭐️       |
 | ✔️ [Day 9: Rope Bridge](https://github.com/kryha5555/Advent-of-Code-2022/tree/main/Day%2009 "Day 9: Rope Bridge")                           |    ⭐️     |      ⭐️       |
-| ❌ Day 10: ...                                                                                                                               |🕕 Waiting  | 🕕 Waiting   |
+| ✔️ [Day 10: Cathode-Ray Tube](https://github.com/kryha5555/Advent-of-Code-2022/tree/main/Day%2010 "Day 10: Cathode-Ray Tube")               |    ⭐️     |      ⭐️       |
 | ❌ Day 11: ...                                                                                                                               |🕕 Waiting  | 🕕 Waiting   |
 | ❌ Day 12: ...                                                                                                                               |🕕 Waiting  | 🕕 Waiting   |
 | ❌ Day 13: ...                                                                                                                               |🕕 Waiting  | 🕕 Waiting   |
