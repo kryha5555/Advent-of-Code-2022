@@ -14,7 +14,7 @@
 | ✔️ [Day 10: Cathode-Ray Tube](https://github.com/kryha5555/Advent-of-Code-2022/tree/main/Day%2010 "Day 10: Cathode-Ray Tube")               |    ⭐️     |      ⭐️       |
 | ✔️ [Day 11: Monkey in the Middle](https://github.com/kryha5555/Advent-of-Code-2022/tree/main/Day%2011 "Day 11: Monkey in the Middle")       |    ⭐️     |      ⭐️       |
 | ✔️ [Day 12: Hill Climbing Algorithm](https://github.com/kryha5555/Advent-of-Code-2022/tree/main/Day%2012 "Day 12: Hill Climbing Algorithm") |    ⭐️     |      ⭐️       |
-| ❌ Day 13: ...                                                                                                                               |🕕 Waiting  | 🕕 Waiting   |
+| ✔️ [Day 13: Distress Signal](https://github.com/kryha5555/Advent-of-Code-2022/tree/main/Day%2013 "Day 13: Distress Signal")                 |    ⭐️     |      ⭐️       |
 | ❌ Day 14: ...                                                                                                                               |🕕 Waiting  | 🕕 Waiting   |
 | ❌ Day 15: ...                                                                                                                               |🕕 Waiting  | 🕕 Waiting   |
 | ❌ Day 16: ...                                                                                                                               |🕕 Waiting  | 🕕 Waiting   |
