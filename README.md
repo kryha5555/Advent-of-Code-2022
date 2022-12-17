@@ -17,7 +17,7 @@
 | ✔️ [Day 13: Distress Signal](https://github.com/kryha5555/Advent-of-Code-2022/tree/main/Day%2013 "Day 13: Distress Signal")                 |    ⭐️     |      ⭐️       |
 | ✔️ [Day 14: Regolith Reservoir](https://github.com/kryha5555/Advent-of-Code-2022/tree/main/Day%2014 "Day 14: Regolith Reservoir")           |    ⭐️     |      ⭐️       |
 | ✔️ [Day 15: Beacon Exclusion Zone](https://github.com/kryha5555/Advent-of-Code-2022/tree/main/Day%2015 "Day 15: Beacon Exclusion Zone")     |    ⭐️     |      ⭐️       |
-| ❌ Day 16: ...                                                                                                                               |🕕 Waiting  | 🕕 Waiting   |
+| ✔️ [Day 16: Proboscidea Volcanium](https://github.com/kryha5555/Advent-of-Code-2022/tree/main/Day%2016 "Day 16: Proboscidea Volcanium")     |    ⭐️     |      ⭐️       |
 | ❌ Day 17: ...                                                                                                                               |🕕 Waiting  | 🕕 Waiting   |
 | ❌ Day 18: ...                                                                                                                               |🕕 Waiting  | 🕕 Waiting   |
 | ❌ Day 19: ...                                                                                                                               |🕕 Waiting  | 🕕 Waiting   |
