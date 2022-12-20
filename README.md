@@ -20,7 +20,7 @@
 | ✔️ [Day 16: Proboscidea Volcanium](https://github.com/kryha5555/Advent-of-Code-2022/tree/main/Day%2016 "Day 16: Proboscidea Volcanium")     |    ⭐️     |      ⭐️       |
 | ✔️ [Day 17: Pyroclastic Flow](https://github.com/kryha5555/Advent-of-Code-2022/tree/main/Day%2017 "Day 17: Pyroclastic Flow")               |    ⭐️     |      ⭐️       |
 | ✔️ [Day 18: Boiling Boulders](https://github.com/kryha5555/Advent-of-Code-2022/tree/main/Day%2018 "Day 18: Boiling Boulders")               |    ⭐️     |      ⭐️       |
-| ❌ Day 19: ...                                                                                                                               |🕕 Waiting  | 🕕 Waiting   |
+| ✔️ [Day 19: Not Enough Minerals](https://github.com/kryha5555/Advent-of-Code-2022/tree/main/Day%2019 "Day 19: Not Enough Minerals")         |    ⭐️     |      ⭐️       |
 | ❌ Day 20: ...                                                                                                                               |🕕 Waiting  | 🕕 Waiting   |
 | ❌ Day 21: ...                                                                                                                               |🕕 Waiting  | 🕕 Waiting   |
 | ❌ Day 22: ...                                                                                                                               |🕕 Waiting  | 🕕 Waiting   |
