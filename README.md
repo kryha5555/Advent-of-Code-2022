@@ -22,7 +22,7 @@
 | ✔️ [Day 18: Boiling Boulders](https://github.com/kryha5555/Advent-of-Code-2022/tree/main/Day%2018 "Day 18: Boiling Boulders")               |    ⭐️     |      ⭐️       |
 | ✔️ [Day 19: Not Enough Minerals](https://github.com/kryha5555/Advent-of-Code-2022/tree/main/Day%2019 "Day 19: Not Enough Minerals")         |    ⭐️     |      ⭐️       |
 | ✔️ [Day 20: Grove Positioning System](https://github.com/kryha5555/Advent-of-Code-2022/tree/main/Day%2020 "Day 20: Grove Positioning System")|    ⭐️     |      ⭐️       |
-| ❌ Day 21: ...                                                                                                                               |🕕 Waiting  | 🕕 Waiting   |
+| ✔️ [Day 21: Monkey Math](https://github.com/kryha5555/Advent-of-Code-2022/tree/main/Day%2021 "Day 21: Monkey Math")                         |    ⭐️     |      ⭐️       |
 | ❌ Day 22: ...                                                                                                                               |🕕 Waiting  | 🕕 Waiting   |
 | ❌ Day 23: ...                                                                                                                               |🕕 Waiting  | 🕕 Waiting   |
 | ❌ Day 24: ...                                                                                                                               |🕕 Waiting  | 🕕 Waiting   |
