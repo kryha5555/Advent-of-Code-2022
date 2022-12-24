@@ -25,5 +25,5 @@
 | ✔️ [Day 21: Monkey Math](https://github.com/kryha5555/Advent-of-Code-2022/tree/main/Day%2021 "Day 21: Monkey Math")                         |    ⭐️     |      ⭐️       |
 | ✔️ [Day 22: Monkey Map](https://github.com/kryha5555/Advent-of-Code-2022/tree/main/Day%2022 "Day 22: Monkey Map")                           |    ⭐️     |      ⭐️       |
 | ✔️ [Day 23: Unstable Diffusion](https://github.com/kryha5555/Advent-of-Code-2022/tree/main/Day%2023 "Day 23: Unstable Diffusion")           |    ⭐️     |      ⭐️       |
-| ❌ Day 24: ...                                                                                                                               |🕕 Waiting  | 🕕 Waiting   |
+| ✔️ [Day 24: Blizzard Basin](https://github.com/kryha5555/Advent-of-Code-2022/tree/main/Day%2024 "Day 24: Blizzard Basin")                   |    ⭐️     |      ⭐️       |
 | ❌ Day 25: ...                                                                                                                               |🕕 Waiting  | 🕕 Waiting   |
